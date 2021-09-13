@@ -27,7 +27,7 @@
 
 <h2 align="left">Reach me:</h2>
 <p align="left">
-<a href="https://instagram.com/punith_gowda35" target="blank"><img align="center" src="https://github.com/punithmadaiahkumar/punithmadaiahkumar/blob/main/icons/gmail.png" alt="punith_gowda35" height="40" width="40" /></a> &nbsp; &nbsp;
+<a href="mailto:punithmadaiahkumar@gmail.com" target="blank"><img align="center" src="https://github.com/punithmadaiahkumar/punithmadaiahkumar/blob/main/icons/gmail.png" alt="punith_gowda35" height="40" width="40" /></a> &nbsp; &nbsp;
 <a href="https://api.whatsapp.com/send/?phone=918183040270&text&app_absent=0" target="blank"><img align="center" src="https://github.com/punithmadaiahkumar/punithmadaiahkumar/blob/main/icons/whatsapp.png" alt="punith_gowda35" height="40" width="40" /></a>
 </p>
 
