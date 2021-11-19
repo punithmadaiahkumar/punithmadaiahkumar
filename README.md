@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Punith MK</h1>
-<h3 align="center">Aspiring data scientist with excellent ability in using advanced analytical techniques to analyze and infer business insights. Seeking an opportunity to leverage my diverse skills in data modeling and analysis into the open data analyst or data scientist position at your company to improve corporate performance.</h3>
+<h3 align="center">Aspiring Data Scientist with excellent ability in using advanced analytical techniques to analyze and infer business insights. Seeking leverage to my diverse skills in data modeling and analysis into the open Data Analyst or Data Scientist to improve corporate performance.</h3>
 
 ## Skills:
 - <strong>Languages:</strong> Python, R, SQL, HTML, CSS
