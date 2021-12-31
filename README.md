@@ -14,7 +14,7 @@
 
 - <strong>Databases:</strong> MySql, Mariadb, MangoDB, PostgreSql
 
-- <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook,VS code etc.
+- <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook, VS code etc.
 
 - <strong>Other skills:</strong>AWS Solution Architect-Associate, Adobe Photoshop, Illustrator, InDesign, Adobe XD, Lightroom, Power Point etc.
 
