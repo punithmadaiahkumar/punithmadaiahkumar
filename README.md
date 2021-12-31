@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Punith MK</h1>
+### Hey! I'm Punith Gowda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h3 align="center">Aspiring Data Scientist with excellent ability in using advanced analytical techniques to analyze and infer business insights. Seeking an opportunity to leverage my diverse skills in data modeling and analysis into the open Data Analyst or Data Scientist to improve corporate performance.</h3>
 
 ## Skills:
@@ -17,6 +17,11 @@
 - <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook, VS code etc.
 
 - <strong>Other skills:</strong>AWS Solution Architect-Associate, Adobe Photoshop, Illustrator, InDesign, Adobe XD, Lightroom, Power Point etc.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punithmadaiahkumar&layout=compact&theme=tokyonight)](https://github.com/punithmadaiahkumar/github-readme-stats)
+
+
+
 
 <h2 align="left">Connect to me:</h2>
 <p align="left">
