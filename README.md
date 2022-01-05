@@ -12,7 +12,7 @@
 
 - <strong>Machine Learning:</strong> Linear Regresssion, Logistic Regression, Random Forest, Decision Tree, Naïve Bayes, K-NN, Principle Component Analysis (PCA), Association Rules, Recommendation System, clustering techniques, XGBOOST etc.
 
-- <strong>Databases:</strong> MySql, Mariadb, MangoDB, PostgreSql
+- <strong>Databases:</strong> MySql, Mariadb, PostgreSql
 
 - <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook, VS code etc.
 
