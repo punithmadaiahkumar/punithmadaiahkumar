@@ -16,7 +16,7 @@
 
 - <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook, VS code etc.
 
-- <strong>Other skills:</strong>AWS Solution Architect-Associate, Adobe Photoshop, Illustrator, InDesign, Adobe XD, Lightroom, Power Point etc.
+- <strong>Other skills:</strong>AWS Solution Architect-Associate, Adobe Photoshop, Illustrator, InDesign, Lightroom, Power Point etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punithmadaiahkumar&layout=compact&theme=tokyonight)](https://github.com/punithmadaiahkumar?tab=repositories)
 
