@@ -14,7 +14,7 @@
 
 - <strong>Databases:</strong> MySql, Mariadb, PostgreSql
 
-- <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook,Visual Studio 2019 & 2022, VS code, Atom etc.
+- <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook, Visual Studio, VS code, Atom etc.
 
 - <strong>Other skills:</strong>AWS Solution Architect-Associate, Adobe Photoshop, Illustrator, InDesign, Lightroom, Power Point etc.
 
