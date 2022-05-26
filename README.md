@@ -8,13 +8,13 @@
 
 - <strong>Libraries & Tools: </strong> NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Pycaret, Tensorflow, FBProphet, Keras
 
-- <strong>Data Analysis:</strong> Excel, Tableau, Exploratory Data Analysis
+- <strong>Data Analytics:</strong> Excel, Tableau, Power BI, Exploratory Data Analysis
 
 - <strong>Machine Learning:</strong> Linear Regresssion, Logistic Regression, Random Forest, Decision Tree, Naïve Bayes, K-NN, Principle Component Analysis (PCA), Association Rules, Recommendation System, clustering techniques, XGBOOST etc.
 
 - <strong>Databases:</strong> MySql, Mariadb, PostgreSql
 
-- <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook, VS code etc.
+- <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook,Visual Studio 2019 & 2022, VS code, Atom etc.
 
 - <strong>Other skills:</strong>AWS Solution Architect-Associate, Adobe Photoshop, Illustrator, InDesign, Lightroom, Power Point etc.
 
