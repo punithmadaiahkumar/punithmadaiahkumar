@@ -1,4 +1,4 @@
-### Hey! I'm Punith Gowda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey! I'm Punith Gowda :wave:
 <h3 align="center">Aspiring Data Scientist with excellent ability in using advanced analytical techniques to analyze and infer business insights. Seeking an opportunity to leverage my diverse skills in data modeling and analysis into the open Data Analyst or Data Scientist to improve corporate performance.</h3>
 
 ## Skills:
