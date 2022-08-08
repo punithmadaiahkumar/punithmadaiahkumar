@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring Data Scientist with excellent ability in using advanced analytical techniques to analyze and infer business insights. Seeking an opportunity to leverage my diverse skills in data modeling and analysis into the open Data Analyst or Data Scientist to improve corporate performance.</h3>
 
 ## Skills:
-- <strong>Languages:</strong> Python, R, SQL, HTML, CSS
+- <strong>Languages:</strong> Python, HTML, CSS, Java Script
 
-- <strong>Frameworks:</strong> Bootstrap, Streamlit
+- <strong>Frameworks:</strong> Django REST, Flask, Bootstrap, Streamlit
 
 - <strong>Libraries & Tools: </strong> NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Seaborn, Pycaret, Tensorflow, FBProphet, Keras
 
@@ -12,7 +12,7 @@
 
 - <strong>Machine Learning:</strong> Linear Regresssion, Logistic Regression, Random Forest, Decision Tree, Naïve Bayes, K-NN, Principle Component Analysis (PCA), Association Rules, Recommendation System, clustering techniques, XGBOOST etc.
 
-- <strong>Databases:</strong> MySql, Mariadb, PostgreSql
+- <strong>Databases:</strong> MySql, Mariadb, PostgreSql, Firebase
 
 - <strong>IDEs used:</strong> PyCharm, Spyder, Jupyter Notebook, Visual Studio, VS code, Atom etc.
 
